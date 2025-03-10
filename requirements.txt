@@ -1,0 +1,7 @@
+youtube_transcript_api
+streamlit
+transformers
+torch
+python-dotenv
+pathlib
+requests
